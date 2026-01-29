@@ -1,5 +1,5 @@
 streamlit
-PyPDF2
+pypdf
 langchain-community
 langchain-text-splitters
 sentence-transformers
